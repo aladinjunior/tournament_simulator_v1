@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tournament Simulator</string>
+    <string name="soccer_appname">SOCCER</string>
+    <string name="hint_team_name">type the name of the team: </string>
+    <string name="team1_label">TEAM 1</string>
+    <string name="team2_label">TEAM 2</string>
+    <string name="play_button">PLAY</string>
+    <string name="basket_tournament"><b>The Basketball Tournament (TBT)</b> is an open-application, single-elimination tournament played each summer in the United States. The 2022 edition features 64 teams with a $1 million winner-take-all prize, broadcast by ESP</string>
+    <string name="winner_message">"The winner of the match was: %1$s "</string>
+    <string name="basket_appname">BASKETBALL</string>
+    <string name="save_button">Save</string>
+    <string name="saved_toast">Saved succesfully!</string>
+    <string name="soccer_tournament">The most glorious and the most celebrated event is FIFA. FIFA stands for Federation Internationale de Football which is every 4 years and there are players from all around the world taking part. The teams taking part in the tournament are from all world.</string>
+</resources>
