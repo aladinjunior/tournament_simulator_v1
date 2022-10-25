@@ -18,6 +18,10 @@ The UI part of project were all made in xml.
 * Click in the "play" button to generate a winner
 * Save the winner.
 
+## Screenshots
+![Sscreenshot](https://user-images.githubusercontent.com/116511282/197887809-e8dd0565-1ba9-4002-b6ee-6438551d8cef.png)
+![fscreeshot](https://user-images.githubusercontent.com/116511282/197888424-c50de044-3d97-4977-8704-3354eef0ed9d.png)
+
 
 ## Help
 
@@ -46,9 +50,5 @@ Contact info:
 ## License
 
 This project is licensed under the [MIT] License 
-
-![Sscreenshot](https://user-images.githubusercontent.com/116511282/197887809-e8dd0565-1ba9-4002-b6ee-6438551d8cef.png)
-
-
 
 
